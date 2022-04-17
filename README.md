@@ -49,3 +49,6 @@
   <img title="Get Github stats for your profile at https://github.com/anuraghazra/github-readme-stats" alt="belsrc's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belsrc&theme=onedark&hide_border=true&exclude_repo=ftplib,SharpRepository,MinifyLib" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/belsrc/count.svg" alt="Visitor counter" />
+</p>
