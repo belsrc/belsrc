@@ -13,7 +13,7 @@
 </p>
 
 - 🌱 I’m currently learning __Rust__
-- 📘 I’m currently read __[Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)__
+- 📘 I’m currently reading __[Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)__
 - 🏍️ Current ride: __Aprilia Tuono 660__
 - 🎮 Current game: __Elden Ring__
 
