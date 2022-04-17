@@ -3,15 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/bryan-kizer-b2a1603a" target="blank" align="left" style="padding-right:16px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-kizer-b2a1603a" width="16px" />
-  </a>
-  <a href="https://instagram.com/bryan_kizer" target="blank" align="left" style="padding-right:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bryan_kizer" width="16px" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning __Rust__
 - 📘 I’m currently reading __[Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)__
 - 🏍️ Current ride: __Aprilia Tuono 660__
