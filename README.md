@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning __[Rust](https://www.rust-lang.org/)__
 - 📘 I’m currently reading __[Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)__
 - 🏍️ My current ride is an __[Aprilia Tuono 660](https://www.aprilia.com/en_EN/models/tuono-660/)__
-- 🎮 I'm currently playing __[Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring)__
 
 ## 🚀 Languages and Tools:
 
